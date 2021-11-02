@@ -1,0 +1,12 @@
+.idea
+node_modules/
+/msdata/web-transfer-api/data/logs
+/msdata/web-transfer-api/data/temp
+__dev/
+./.vscode
+.vscode
+.sh
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
